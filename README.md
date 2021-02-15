@@ -1,5 +1,5 @@
 # Website-builder
 
-constructor-website.web.app
+https://constructor-website.web.app/
 
-constructor-website.firebaseapp.com
+https://constructor-website.firebaseapp.com/
